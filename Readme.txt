@@ -1,68 +1,33 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fswiss\fcharset0 Helvetica-Oblique;
-}
-{\colortbl;\red255\green255\blue255;\red14\green14\blue14;}
-{\*\expandedcolortbl;;\cssrgb\c6700\c6700\c6700;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+Birthday Gift Site
 
-\f0\b\fs44 \cf2 Birthday Gift Site
-\f1\b0\fs28 \
-\
-This is a fun and interactive birthday card website built as part of the {\field{\*\fldinst{HYPERLINK "https://scrimba.com/learn/htmlandcss"}}{\fldrslt Scrimba HTML & CSS Fundamentals course}}. The project is a single-page site featuring celebratory messages, character-themed visuals, and animated \'93gifts\'94 that reveal surprises on hover.\
-\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+This is a fun and interactive birthday card website built as part of the Scrimba HTML & CSS Fundamentals course. The project is a single-page site featuring celebratory messages, character-themed visuals, and animated “gifts” that reveal surprises when hovered over.
 
-\f0\b\fs34 \cf2 Live Demo
-\f1\b0\fs28 \
-\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+Live Demo
 
-\f2\i \cf2 To be added by you if hosted (e.g., GitHub Pages, Netlify, Vercel)
-\f1\i0 \
-\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
 
-\f0\b\fs34 \cf2 Features
-\f1\b0\fs28 \
-\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
-\cf2 	\'95	Themed birthday greeting for 
-\f0\b Tanjiro Kamado
-\f1\b0  (from 
-\f2\i Demon Slayer
-\f1\i0 )\
-	\'95	Hover-based interactive gift sections\
-	\'95	Stylish gradients, custom fonts, and shadow effects\
-	\'95	Custom images and GIFs revealed with CSS hover effects\
-	\'95	Responsive layout structure (mobile-friendly basic support)\
-\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
 
-\f0\b\fs34 \cf2 Tech Stack
-\f1\b0\fs28 \
-\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
-\cf2 	\'95	HTML5\
-	\'95	CSS3\
-	\'95	Google Fonts\
-	\'95	GIF animations and static images\
-\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+Features
+	•	Themed birthday greeting for Tanjiro Kamado (from Demon Slayer)
+	•	Hover-based interactive gift sections
+	•	Stylish gradients, custom fonts, and shadow effects
+	•	Custom images and GIFs revealed with CSS hover effects
+	•	Responsive layout structure (mobile-friendly basic support)
 
-\f0\b\fs34 \cf2 How It Works
-\f1\b0\fs28 \
-\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
-\cf2 	1.	The birthday.html contains a structured layout with headers and five gift sections.\
-	2.	Each .gift-img div uses a default gift box image.\
-	3.	When hovered over, the background image switches to a surprise GIF using CSS.\
-	4.	All styling and interactivity are handled in birthday.css.\
-\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+Tech Stack
+	•	HTML5
+	•	CSS3
+	•	Google Fonts
+	•	GIF animations and static images
 
-\f0\b\fs34 \cf2 Customization
-\f1\b0\fs28 \
-\
-You can personalize this project by:\
-\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
-\cf2 	\'95	Changing the recipient\'92s name, age, and birthdate\
-	\'95	Replacing GIFs and images in the /images folder\
-	\'95	Updating styles to match your theme}
+How It Works
+	1.	The birthday.html contains a structured layout with headers and five gift sections.
+	2.	Each .gift-img div uses a default gift box image.
+	3.	When hovered over, the background image switches to a surprise GIF using CSS.
+	4.	All styling and interactivity are handled in birthday.css.
+
+Customization
+
+You can personalize this project by:
+	•	Changing the recipient’s name, age, and birthdate
+	•	Replacing GIFs and images in the /images folder
+	•	Updating styles to match your theme
